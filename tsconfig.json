@@ -1,0 +1,16 @@
+{
+  "compilerOptions": {
+    "rootDir": "src",
+    "module": "commonjs",
+    "target": "es5",
+    "jsx": "react"
+  },
+  "filesGlob": [
+    "src/**/*.tsx",
+    "typings-extra/*.d.ts",
+    "typings/index.d.ts"
+  ],
+  "exclude": [
+    "node_modules"
+  ]
+}
